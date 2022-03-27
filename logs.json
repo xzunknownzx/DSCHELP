@@ -1,0 +1,24 @@
+{
+	"questions": {
+		"Max players per lobby?": 19,
+		"When does it update?": 16,
+		"How long does it take?": 13,
+		"Will I get banned?": 17,
+		"Do you offer custom UI?": 5,
+		"What is the price?": 13,
+		"How is this done?": 3,
+		"Will SBMM matchmaking be effected?": 4,
+		"What does the tool unlock?": 12,
+		"What does this tool do?": 10,
+		"Has anybody been banned?": 8,
+		"What are the prices?": 14,
+		"Are the camos permanent?": 2,
+		"Max # Players per Lobby?": 7,
+		"Do I need to stay ingame?": 2
+	},
+	"information": {
+		"Tool Features Info": 18,
+		"How To Set Up Classes": 7,
+		"How-To Transfer Host": 5
+	}
+}
